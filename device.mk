@@ -49,6 +49,9 @@ $(call inherit-product-if-exists, vendor/bcr/bcr.mk)
 PRODUCT_PACKAGES += \
     android.hardware.bluetooth-service.mediatek
 
+# Blur
+TARGET_ENABLE_BLUR := true
+
 # ConfigStore
 PRODUCT_PACKAGES += \
     disable_configstore
