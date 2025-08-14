@@ -42,7 +42,7 @@ PRODUCT_COPY_FILES += \
 
 # Bluetooth
 PRODUCT_PACKAGES += \
-    android.hardware.bluetooth@1.0.vendor:64
+    android.hardware.bluetooth-service.mediatek
 
 # ConfigStore
 PRODUCT_PACKAGES += \
