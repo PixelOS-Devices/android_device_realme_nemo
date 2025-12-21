@@ -1,0 +1,26 @@
+[
+  {
+    "repository": "YAAP/device_mediatek_sepolicy_vndr",
+    "target_path": "device/mediatek/sepolicy_vndr",
+    "branch": "sixteen"
+  },
+  {
+    "repository": "crdroidandroid/android_hardware_dolby",
+    "target_path": "hardware/dolby",
+    "branch": "16.0"
+  },
+  {
+    "repository":  "YAAP/hardware_mediatek",
+    "target_path": "hardware/mediatek",
+    "branch": "sixteen"
+  },
+  {
+    "repository": "PixelOS-Devices/android_kernel_realme_nemo",
+    "target_path": "kernel/realme/nemo"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "NoPrincessHere/proprietary_vendor_realme_nemo",
+    "target_path": "vendor/realme/nemo"
+  }
+]
