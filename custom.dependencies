@@ -5,11 +5,6 @@
     "branch": "sixteen"
   },
   {
-    "repository": "crdroidandroid/android_hardware_dolby",
-    "target_path": "hardware/dolby",
-    "branch": "16.0"
-  },
-  {
     "repository":  "YAAP/hardware_mediatek",
     "target_path": "hardware/mediatek",
     "branch": "sixteen"
