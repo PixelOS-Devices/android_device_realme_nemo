@@ -7,7 +7,7 @@
   {
     "repository":  "YAAP/hardware_mediatek",
     "target_path": "hardware/mediatek",
-    "branch": "sixteen"
+    "branch": "sixteen-legacy"
   },
   {
     "repository": "PixelOS-Devices/android_kernel_realme_nemo",
